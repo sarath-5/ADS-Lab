@@ -1,0 +1,22 @@
+<employees>
+	<employee>
+		<id>01</id>
+		<name>manu</name>
+		<job>clerk</job>
+		<salary>25000</salary>
+	</employee>
+	<employee>
+		<id>02</id>
+		<name>sudha</name>
+		<job>manager</job>
+		<salary>45000</salary>
+	</employee>
+	<employee>
+		<id>03</id>
+		<name>raj</name>
+		<job>HR</job>
+		<salary>35000</salary>
+	</employee>
+</employees>
+
+

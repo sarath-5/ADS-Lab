@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+  <departments>
+    <department>
+      <id>1</id>
+      <name>Engineering</name>
+      <employees>
+        <employee>
+          <id>1001</id>
+          <name>John Doe</name>
+          <position>Software Engineer</position>
+          <salary>75000</salary>
+        </employee>
+        <employee>
+          <id>1002</id>
+          <name>Jane Smith</name>
+          <position>Senior Software Engineer</position>
+          <salary>90000</salary>
+        </employee>
+      </employees>
+    </department>
+    <department>
+      <id>2</id>
+      <name>Marketing</name>
+      <employees>
+        <employee>
+          <id>2001</id>
+          <name>Michael Johnson</name>
+          <position>Marketing Manager</position>
+          <salary>80000</salary>
+        </employee>
+        <employee>
+          <id>2002</id>
+          <name>Sarah Williams</name>
+          <position>Marketing Coordinator</position>
+          <salary>60000</salary>
+        </employee>
+      </employees>
+    </department>
+  </departments>
+</company>

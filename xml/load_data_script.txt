@@ -1,0 +1,4 @@
+LOAD XML
+INFILE "D:\\mysqlfiles\\emp_data.xml"
+INTO TABLE emp
+ROWS IDENTIFIED BY '<employee>';
